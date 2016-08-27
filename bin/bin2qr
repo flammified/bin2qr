@@ -195,6 +195,8 @@ if __name__ == "__main__":
             exit(1)
         args.data = sys.stdin.readlines()
         data = "".join(args.data).strip()
+    else:
+        data = self.data
 
     if args.text:
         data = ''.join(format(ord(x), 'b') for x in data)
