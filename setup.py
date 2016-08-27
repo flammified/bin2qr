@@ -24,7 +24,7 @@ setup(
     # https://packaging.python.org/en/latest/single_source_version.html
     version='1.0.0',
 
-    description='A library for making Terraria bots in a event driven manner',
+    description='A command line utility that generates QR codes from pure binary information without formatting',
     long_description=long_description,
 
     # The project's main homepage.
