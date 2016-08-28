@@ -1,4 +1,5 @@
 # bin2qr
+[![PyPI version](https://badge.fury.io/py/bin2qr.svg)](https://badge.fury.io/py/bin2qr)
 
 bin2qr is a command line utility which converts binary to a QR code. This QR code is not created according to the correct format, but purely from adding the bits with black and white pixels (1 and 0 respectively).
 
